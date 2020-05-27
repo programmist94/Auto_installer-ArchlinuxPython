@@ -1,1 +1,1 @@
-# pythonAuto_archv1
+# pyAutoinstall_archlinux2020
